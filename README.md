@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Welcome! 🖖
 
 I am currently trying to become a Software Engineer. Mainly working with **Python**, **JavaScript**, and **Java**, my focus is on building a body of work that will showcase my current skillset and allow me to continue learning new concepts and technologies.
 
